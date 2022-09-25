@@ -1,6 +1,6 @@
 module.exports = {
   start: `
-  Hello you guys :)
+  שלום לכם :)
   I'm here to help you improve your resume and get more job interviews!
   Please select "Improve an existing file".`,
   next: `
