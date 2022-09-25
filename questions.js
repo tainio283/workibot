@@ -30,7 +30,7 @@ module.exports = {
 האם הנסיון התעסוקתי שלכם כתוב בגוף ראשון?`,
     },
     {
-      yes: `הכיוון שלכם מעולה! בואו נמשיך: :
+      yes: `הכיוון שלכם מעולה! בואו נמשיך:
 האם שילבתם מילות מפתח בנסיון התעסוקתי שלכם?`,
       no: `כשאתם כותבים "ניהול מחלקת מכירות/פיתוח תוכנות גלובאליות/לימוד 50 תלמידים" זה רק אומר למגייס מה היה במקום שעבדתם בו, לא מה אתם עשיתם. 
       לכן נכתוב בגוף ראשון 
@@ -58,20 +58,29 @@ module.exports = {
       איך בן אדם עם למשל יותר מעשור נסיון צריך להכניס את הכל בעמוד אחד??
       הקו"ח שלי בני 2.5 עמודים והם עוברים כל סינון. כל מה שאתם צריכים לעשות זה להפוך את העמוד הראשון למפתה מספיק כדי שהמגייס ירצה
       להמשיך לקרוא הכל. בנוסף, יש גבול כמה אפשר לקצר. יש דברים שחובה לכתוב בנסיון התעסוקתי. חובה שיהיה "בשר" בכל סעיף.
-      לא נורא בכלל אם הקו"ח יהיו בני יותר מעמוד אחד.. 
+      לא נורא בכלל אם הקו"ח יהיו בני יותר מעמוד אחד. 
 האם הכנסתם דברים לא רלוונטיים לקו"ח שלכם?
 `,
-      no: `Very good. There must be "meat" in the description of every job you worked.
-There is no problem if the resume is even 2 pages long, the main thing is that the first page is enticing enough for the recruiter to continue reading until the end.
-Are there any irrelevant things in your resume?`,
-    },
-    {
-      yes: `טוב מאד.
+      no: `טוב מאד.
       חייב שיהיה "בשר" בכל משרה בה עבדתם. אין בעיה שקורות החיים יהיו באורך 2 עמודים אפילו,
       העיקר שהעמוד הראשון יהיה מפתה מספיק כדי שהמגייס ימשיך לקרוא עד הסוף.
+      
+      האם הכנסתם דברים לא רלוונטיים לקו"ח שלכם?`,
+    },
+    {
+      yes: `זה לא משנה אם יש לכם שנה או עשור של נסיון, יש דברים שלא חובה להכניס לקו"ח. 
+      אם אתם מחפשים משרת פיתוח, לא תכתבו שמילצרתם חודשיים אחרי הצבא. 
+      אם אתם מחפשים משרה בתחום המסעדנות, אולי דווקא כן תכניסו את זה. 
+      אם יש לכם שנים של נסיון 
+      ולפני יותר מעשור עבדתם במקום שנראה לכם לא רלוונטי, אתם יכולים לכתוב "בין השנים X-X עבדתי במקום Y, אפרט לפי דרישת המראיין".
 האם הכנסתם דברים לא רלוונטיים לקו"ח שלכם?`,
-      no: `Great!
-It doesn't matter if you have a year or a decade of experience, there are things that are not required to be included in the contract. If you are looking for a development position, you will not write that you applied for two months after the army. If you are looking for a position in the restaurant industry, maybe you should include it. If you have years of experience and more than a decade ago you worked in a place that seems irrelevant to you, you can write "Between the years X-X I worked in place Y, I will specify according to the interviewer's request". Next question: Do your languages ​​and skills get an honorable place?)
+      no: `מצויין!
+      זה לא משנה אם יש לכם שנה או עשור של נסיון, יש דברים שלא חובה להכניס לקו"ח.
+      אם אתם מחפשים משרת פיתוח, 
+      לא תכתבו שמילצרתם חודשיים אחרי הצבא. אם אתם מחפשים משרה בתחום המסעדנות, אולי דווקא כן תכניסו את זה. 
+      אם יש לכם שנים של נסיון ולפני יותר מעשור עבדתם 
+      במקום שנראה לכם לא רלוונטי, אתם יכולים לכתוב "בין השנים X-X עבדתי במקום Y, אפרט לפי דרישת המראיין
+. Next question: Do your languages ​​and skills get an honorable place?)
 `,
     },
     {
