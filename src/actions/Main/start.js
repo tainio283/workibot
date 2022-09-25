@@ -2,7 +2,7 @@ const c = require("../../../questions");
 const yesandnoKeyboard = {
   parse_mode: "HTML",
   reply_markup: {
-    keyboard: [["yes", "no"]],
+    keyboard: [["Yes", "No"]],
     resize_keyboard: true,
     one_time_keyboard: true,
   },
