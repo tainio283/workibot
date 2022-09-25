@@ -2,12 +2,12 @@ module.exports = {
   start: `
   שלום לכם :)
   אני כאן כדי שקורות החיים שלכם יביאו לכם יותר מענה ויותר ראיונות עבודה!
-  Please select "Improve an existing file".`,
+  נא בחרו "שיפור קורות החיים".`,
   next: `
-Thanks :)
-I'm going to ask you questions.
-There is no right or wrong, only the truth.
-We are all here to improve :)`,
+מצויין :)
+אני הולך לשאול אתכם 10 שאלות.
+אין נכון או לא נכון, רק האמת.
+כולנו כאן כדי להשתפר :)`,
   questions: [
     {
       q: "Do you have a resume in WORD format?",
