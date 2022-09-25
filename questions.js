@@ -80,26 +80,40 @@ module.exports = {
       לא תכתבו שמילצרתם חודשיים אחרי הצבא. אם אתם מחפשים משרה בתחום המסעדנות, אולי דווקא כן תכניסו את זה. 
       אם יש לכם שנים של נסיון ולפני יותר מעשור עבדתם 
       במקום שנראה לכם לא רלוונטי, אתם יכולים לכתוב "בין השנים X-X עבדתי במקום Y, אפרט לפי דרישת המראיין
-. Next question: Do your languages ​​and skills get an honorable place?)
+. שאלה הבאה: האם הגדרתם מקום מיוחד בקו"ח לכישורים שלכם?)
 `,
     },
     {
-      yes: `Very good, it's important!
-Do you highlight your personal achievements?`,
-      no: `everyone sees your name and also your work experience. What about personal information (email, phone, etc.), skills (systems you know, Office, etc.) and languages? My recommendation is to write everything in a prominent position and in an orderly manner. I prefer to write Everything is in a column on the right or left. It's up to you, the main thing is that the file looks organized.
+      yes: `מצויין, זה חשוב!
+      בקורות החיים תבליטו את עצמכם מעל מועמדים אחרים, כשתתקבלו לעבודה תוכלו לחזור להיות צעונים וענווים.
+2 שאלות אחרונות:
+האם ביצעתם הגהה לקובץ?`,
+      no: `את השם שלכם כולם רואים וגם את הנסיון התעסוקתי. מה לגבי מידע אישי (מייל, טלפון וכו'), כישורים (מערכות שאתם מכירים, אופיס ועוד) ושפות? 
+      ההמלצה שלי היא לכתוב הכל במיקום בולט ובצורה מסודרת. אני מעדיף לכתוב הכל בעמודה מימין או משמאל. זה לשיקולכם, העיקר שהקובץ ייראה מסודר.
 
-Do you highlight your personal achievements?`,
+2 שאלות אחרונות:
+האם ביצעתם הגהה לקובץ?`,
     },
     {
-      yes: `Great, this is the way to make yourself stand out from other candidates.
-
-Did you proofread the resume before sending it?`,
-      no: ``,
+      yes: `אלופים! זאת הדרך להבליט את עצמכם מעל מועמדים אחרים.
+      שאלה אחרונה: האם יש לכם יותר מקובץ קו"ח אחד?
+      
+      `,
+      no: `חובה חובה לעשות הגהה לקו"ח שלכם. לפעמים יש שם שגיאות כתיב, 
+      לפעמים שגיאות הקלדה ולפעמים סתם רווחים כפולים או מילים צמודות. 
+      כמובן שמראיין שיפיל אתכם על שגיאות כתיב הוא מראיין לא רציני, אבל עלינו מוטלת החובה לעשות את המיטב. 
+      אם יש לכם קושי לבצע הגהה או שאתם לא יודעים לעשות הגהה לבד, כדאי מאד שתתנו לחבר טוב לעזור לכם בעניין.
+      
+      שאלה אחרונה: האם יש לכם יותר מקובץ קו"ח אחד?`,
     },
     {
-      yes: `Great. It's minor, but it makes everything look better.
+      yes: `טוב מאד.
+      כמו בכל דבר, הסוד הוא לדעת לכוון למטרה
+      .
 Last question: Do you have more than one CV file?`,
-      no: `it is mandatory to proofread your contract. Sometimes there are spelling errors, sometimes typos, and sometimes just double spaces or adjacent words. Of course, an interviewer who will criticize you for spelling errors is not a serious interviewer, but we have the duty to do our best. If you have dyslexia or you don't know how to proofread on your own, you should let a good friend help you with this.
+      no: `לפעמים יקרה מצב שלאותה משרה יהיו דרישות שונות ובקו"ח שלכם, בכל משרה שביצעתם, יש דברים אחרים שמתאימים לאותה משרה. 
+      הסוד הוא להכין 3 קבצים שונים, דומים כמובן, 
+      שכל אחד מהם מדגיש משרה אחרת ויתרונות אחרים, שמתאימים למשרה הספציפית אליה אתם רוצים להגיד מועמדות.
 Last question: Do you have more than one CV file?`,
     },
     {
