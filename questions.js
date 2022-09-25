@@ -22,18 +22,23 @@ module.exports = {
     },
     {
       yes: `טוב מאד! האם הנסיון התעסוקתי שלכם כתוב בגוף ראשון?`,
-      no: `Your resume is full of your professional experience. Before the recruiter dives in there, let him understand what professional background you come from, what your professional self believes and where you are headed professionally.
-An opening paragraph of 3-4 lines will make the difference between another job you missed and a job that could be yours! The paragraph should be placed before all other clauses in the contract. 
+      no: `קורות החיים שלכם מלאים בנסיון התעסוקתי שלכם. לפני שהמגייס יצלול לשם, תנו לו להבין מאיזה רקע מקצועי אתם מגיעים, 
+      מה האני מאמין המקצועי שלכם ולאן אתם מכוונים מקצועית.
+פסקת פתיחה של 3-4 שורות תעשה את ההבדל בין עוד משרה שפספסתם למשרה שיכולה להיות שלכם! הפסקה צריכה להיות ממוקמת לפני כל שאר הסעיפים בקו"
+. 
 
-Is your work experience written in the first person?`,
+האם הנסיון התעסוקתי שלכם כתוב בגוף ראשון?`,
     },
     {
-      yes: `Your direction is excellent! Let's continue:
-Have you included keywords in your work experience?`,
-      no: `when you write "Managing a sales department/developing global software/teaching 50 students" it only tells the recruiter what was in the place where you worked, not what you did. Therefore we will write in the first person "I managed a sales department of 12 representatives including one team manager" And add half a line of how we did everything "I managed the department with an emphasis on customer satisfaction and sticking to the goals we set at the beginning of the month".
-Much better. 
+      yes: `הכיוון שלכם מעולה! בואו נמשיך: :
+האם שילבתם מילות מפתח בנסיון התעסוקתי שלכם?`,
+      no: `כשאתם כותבים "ניהול מחלקת מכירות/פיתוח תוכנות גלובאליות/לימוד 50 תלמידים" זה רק אומר למגייס מה היה במקום שעבדתם בו, לא מה אתם עשיתם. 
+      לכן נכתוב בגוף ראשון 
+      "ניהלתי מחלקת מכירות בת 12 נציגים 
+      כולל מנהל צוות אחד" ונוסיף חצי שורה איך עשינו כל דבר "ניהלתי את המחלקה תוך דגש על שביעות רצון הלקוח והיצמדות ליעדים שקבענו בתחילת החודש".
+Much הרבה יותר טוב. 
 
-Have you included keywords in your work experience?`,
+האם שילבתם מילות מפתח בנסיון התעסוקתי שלכם?`,
     },
     {
       yes: `You know what you're doing, well done.
