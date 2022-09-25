@@ -10,17 +10,18 @@ module.exports = {
 כולנו כאן כדי להשתפר :)`,
   questions: [
     {
-      q: "Do you have a resume in WORD format?",
-      yes: "great! Is there an opening paragraph of 3-4 lines at the beginning of your resume?",
+      q: "האם קורות החיים שלכם בפורמט Word?",
+      yes: "מעולה! האם יש פסקת פתיחה בת 3-4 שורות בתחילת קורות החיים שלכם?",
       no: `
-resumes are written in WORD!
-There is no problem maintaining invoices in PDF as well, but we will only send them to those who say it is okay for them.
-Most of the invoice systems of the recruiters in the market read only WORD, therefore we will send an invoice only in WORD. next question:)
+קורות חיים כותבים ב-Word!
+אין בעיה לתחזק קו"ח גם ב-PDF, אבל אותם נשלח רק למי שאומר שזה בסדר מבחינתו.
+רב מערכות הקו"ח של המגייסים בשוק קוראות רק WORD ולכן נשלח קו"ח רק ב-WORD
+. שאלה הבאה:)
 
-Is there an opening paragraph of 3-4 lines at the beginning of your resume?`,
+האם יש פסקת פתיחה בת 3-4 שורות בתחילת קורות החיים שלכם?`,
     },
     {
-      yes: `Great! Is your work experience written in the first person?`,
+      yes: `טוב מאד! האם הנסיון התעסוקתי שלכם כתוב בגוף ראשון?`,
       no: `Your resume is full of your professional experience. Before the recruiter dives in there, let him understand what professional background you come from, what your professional self believes and where you are headed professionally.
 An opening paragraph of 3-4 lines will make the difference between another job you missed and a job that could be yours! The paragraph should be placed before all other clauses in the contract. 
 
