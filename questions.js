@@ -68,34 +68,51 @@ module.exports = {
 האם הבלטתם את ההישגים האישיים שלכם?`,
       no: `טוב מאד!
 כדי להיות רלוונטים - נכניס רק דברים רלוונטיים.
-האם הבלטתם את ההישגים האישיים שלכם?)
+האם הבלטתם את ההישגים האישיים שלכם?
 `,
     },
     {
-      yes: `Very good, it's important!
-Do you highlight your personal achievements?`,
-      no: `everyone sees your name and also your work experience. What about personal information (email, phone, etc.), skills (systems you know, Office, etc.) and languages? My recommendation is to write everything in a prominent position and in an orderly manner. I prefer to write Everything is in a column on the right or left. It's up to you, the main thing is that the file looks organized.
+      yes: `טוב מאד.
+כל הישג כזה יבליט אתכם מעל מועמדים אחרים שמתמיינים גם כן למשרה שלכם!
+האם הכישורים שלכם מרוכזים במקום מסודר בקורות החיים שלכם?`,
+      no: `להיות צנוע ועניו זה מעולה בחיים האישיים וברמה מסויימת גם בחיים המקצועיים. איפה זה לא טוב? 
+      בקורות החיים ובראיון העבודה. קורות החיים זה הדבר הראשון שרואים, 
+      שומעים ויודעים לגביכם ולכן חשוב להדגיש כבר שם מה הערך 
+      המוסף שלכם ולהבליט את עצמכם מעל עוד 100 אחרים ששולחים קו"ח לאותן משרות שאתם שולחים.
+איך זה נראה? בתחתית כל נסיון תעסוקתי שכתבתם, תוסיפו "הפעילות בניהולי הביאה לצמיחה משמעותית במכירות 
+ולזכייה במוקד המצטיין בארץ במכירה ושירות 3 שנית ברציפות" ותדגישו את השורה הזאת בבולד.
 
-Do you highlight your personal achievements?`,
+האם הכישורים שלכם מרוכזים במקום מסודר בקורות החיים שלכם?`,
     },
     {
-      yes: `Great, this is the way to make yourself stand out from other candidates.
+      yes: `יופי, זה חשוב ביותר.
+רישום של הכישורים שלכם במקום מסודר תופס את העין של המגייס ונותן לכם יתקון על פני אחרים.
 
-Did you proofread the resume before sending it?`,
-      no: ``,
+האם ביצעתם הגהה לקורות החיים לפני השליחה?`,
+      no: `את השם שלכם כולם רואים וגם את הנסיון התעסוקתי. מה לגבי מידע אישי (מייל, טלפון וכו'), כישורים (מערכות שאתם מכירים, אופיס ועוד) ושפות? 
+      .ההמלצה שלי היא לכתוב הכל במיקום בולט ובצורה מסודרת. אני מעדיף לכתוב הכל בעמודה מימין או משמאל. זה לשיקולכם, העיקר שהקובץ ייראה מסודר
+האם ביצעתם הגהה לקורות החיים לפני השליחה?`,
+
     },
     {
-      yes: `Great. It's minor, but it makes everything look better.
-Last question: Do you have more than one CV file?`,
-      no: `it is mandatory to proofread your contract. Sometimes there are spelling errors, sometimes typos, and sometimes just double spaces or adjacent words. Of course, an interviewer who will criticize you for spelling errors is not a serious interviewer, but we have the duty to do our best. If you have dyslexia or you don't know how to proofread on your own, you should let a good friend help you with this.
-Last question: Do you have more than one CV file?`,
+      yes: `טוב מאד! אלה דברים שנראים קטנים אבל כמכלול הופכים לשיקול חשוב אצל המגייס.
+שאלה אחרונה: האם יש לכם יותר מקובץ קורות חיים אחד?`,
+      no: `חובה חובה לעשות הגהה לקו"ח שלכם. לפעמים יש שם שגיאות כתיב, לפעמים שגיאות הקלדה ולפעמים סתם רווחים כפולים או מילים צמודות. 
+      כמובן שמראיין שיפיל אתכם על שגיאות כתיב הוא מראיין לא רציני, אבל עלינו מוטלת החובה לעשות את המיטב. 
+      אם יש לכם דיסלקציה או שאתם לא יודעים לעשות הגהה לבד, כדאי מאד שתתנו לחבר טוב לעזור לכם בעניין.
+שאלה אחרונה: האם יש לכם יותר מקובץ קורות חיים אחד?`,
     },
     {
-      yes: `Great! This is how you will adapt yourself to any job.
-Now that your resume looks great, I'm sure you'll get more invitations for job interviews. Successfully!`,
-      no: `sometimes a situation will happen that the same job will have different requirements and in your contract, for each job you performed, there are other things that are suitable for that job. The secret is to prepare 3 different files, similar of course, each of which emphasizes a different job and its advantage
-A. Others, which are suitable for the specific position for which you want to apply.
-Now that your resume looks great, I'm sure you'll get more invitations for job interviews. Successfully!`,
+      yes: `מעולה! ככה אתם מתאימים את קורות החיים שלכם לכל משרה.
+עכשיו כשקורות החיים שלכם נראים נהדר, אני בטוח שתקבלו יותר מענה ויותר ראיונות עבודה!
+ספרו לחברים שלכם עליי :)
+בהצלחה!`,
+      no: `לפעמים יקרה מצב שלאותה משרה יהיו דרישות שונות ובקו"ח שלכם, בכל משרה שביצעתם, 
+      יש דברים אחרים שמתאימים לאותה משרה. הסוד הוא להכין 3 קבצים שונים, 
+      דומים כמובן, שכל אחד מהם מדגיש משרה אחרת ויתרונות אחרים, שמתאימים למשרה הספציפית אליה אתם רוצים להגיד מועמדות.
+עכשיו כשקורות החיים שלכם נראים נהדר, אני בטוח שתקבלו יותר מענה ויותר ראיונות עבודה!
+ספרו לחברים שלכם עליי :)
+בהצלחה!`,
     },
   ],
 };
