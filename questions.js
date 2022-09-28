@@ -4,10 +4,11 @@ module.exports = {
   אני כאן כדי שאתם תקבלו יותר מענה לקורות החיים שלכם ויותר ראיונות עבודה!
   נא בחרו "שיפור קובץ קיים".`,
   next: `
-Thanks :)
-I'm going to ask you questions.
-There is no right or wrong, only the truth.
-We are all here to improve :)`,
+תודה :)
+אני הולך לשאול אתכם 10 שאלות.
+אין נכון או לא נכון, רק האמת.
+כולנו כאן כדי להשתפר.
+יאללה, נמשיך? :)`,
   questions: [
     {
       q: "Do you have a resume in WORD format?",
