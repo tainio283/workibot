@@ -11,51 +11,64 @@ module.exports = {
 יאללה, נמשיך? :)`,
   questions: [
     {
-      q: "Do you have a resume in WORD format?",
-      yes: "great! Is there an opening paragraph of 3-4 lines at the beginning of your resume?",
+      q: "האם קורות החיים שלכם כתובים בפורמט WORD?",
+      yes: "מעולה! האם קיימת פסקת פתיחה בת 3-4 שורות בקורות החיים שלכם?",
       no: `
-resumes are written in WORD!
-There is no problem maintaining invoices in PDF as well, but we will only send them to those who say it is okay for them.
-Most of the invoice systems of the recruiters in the market read only WORD, therefore we will send an invoice only in WORD. next question:)
+קורות חיים כותבים בוורד!
+אין בעיה לתחזק קו"ח גם ב-PDF, אבל אותם נשלח רק למי שאומר שזה בסדר מבחינתו.
+רב מערכות הקו"ח של המגייסים בשוק קוראות רק WORD ולכן נשלח קו"ח רק ב-WORD.
+שאלה הבאה :)
 
-Is there an opening paragraph of 3-4 lines at the beginning of your resume?`,
+האם קיימת פסקת פתיחה בת 3-4 שורות בקורות החיים שלכם?`,
     },
     {
-      yes: `Great! Is your work experience written in the first person?`,
-      no: `Your resume is full of your professional experience. Before the recruiter dives in there, let him understand what professional background you come from, what your professional self believes and where you are headed professionally.
-An opening paragraph of 3-4 lines will make the difference between another job you missed and a job that could be yours! The paragraph should be placed before all other clauses in the contract. 
+      yes: `מצויין! האם הנסיון התעסוקתי שלכם כתוב בגוף ראשון?`,
+      no: `קורות החיים שלכם מלאים בנסיון התעסוקתי שלכם. לפני שהמגייס יצלול לשם, תנו לו להבין מאיזה רקע מקצועי אתם מגיעים, מה האני מאמין המקצועי שלכם ולאן אתם מכוונים מקצועית.
+פסקת פתיחה של 3-4 שורות תעשה את ההבדל בין עוד משרה שפספסתם למשרה שיכולה להיות שלכם! הפסקה צריכה להיות ממוקמת לפני כל שאר הסעיפים בקו"ח. 
 
-Is your work experience written in the first person?`,
+האם הנסיון התעסוקתי שלכם כתוב בגוף ראשון?`,
     },
     {
-      yes: `Your direction is excellent! Let's continue:
-Have you included keywords in your work experience?`,
-      no: `when you write "Managing a sales department/developing global software/teaching 50 students" it only tells the recruiter what was in the place where you worked, not what you did. Therefore we will write in the first person "I managed a sales department of 12 representatives including one team manager" And add half a line of how we did everything "I managed the department with an emphasis on customer satisfaction and sticking to the goals we set at the beginning of the month".
-Much better. 
+      yes: `הכיוון שלכם מצויין! בואו נמשיך:
+האם שילבתם מילות מפתח בקורות החיים שלכם?`,
+      no: `כשאתם כותבים "ניהול מחלקת מכירות/פיתוח תוכנות גלובאליות/לימוד 50 תלמידים" זה רק אומר למגייס מה היה במקום שעבדתם בו, לא מה אתם עשיתם. לכן נכתוב בגוף ראשון "ניהלתי מחלקת מכירות בת 12 נציגים כולל מנהל צוות אחד" ונוסיף חצי שורה איך עשינו כל דבר "ניהלתי את המחלקה תוך דגש על שביעות רצון הלקוח והיצמדות ליעדים שקבענו בתחילת החודש".
+הרבה יותר טוב. 
 
-Have you included keywords in your work experience?`,
+האם שילבתם מילות מפתח בקורות החיים שלכם?`,
     },
     {
-      yes: `You know what you're doing, well done.
-Is your resume only one page long?`,
-      no: `it's great that you know how to tell what you did in your previous job, but why work hard? HR systems filter HR based on keywords. How do you solve the problem? the keywords) and integrate them into your work experience. For example, instead of "I managed a development team that knows what it's doing", we will write "I managed a development team according to KPI's set in sync with the development department and the R&D department"
-
-Is your resume only one page long?`,
+      yes: `אתם יודעים מה אתם עושים, כל הכבוד!
+האם קורות החיים שלכם בני עמוד אחד?`,
+      no: `זה מעולה שאתם יודעים לספר מה עשיתם בעבודה הקודמת, 
+      אבל למה לעבוד קשה? מערכות קו"ח מסננות קו"ח על פי מילות מפתח. איך פותרים את הבעיה? 
+      נכנסים למשרות דרושים שרלוונטיות לכם, 
+      מוצאים מה המילים המשותפות לכל המשרות (מילות המפתח) ומשלבים אותן בנסיון התעסוקתי שלכם. למשל, 
+      במקום "ניהלתי צוות פיתוח שיודע מה הוא עושה", נכתוב "ניהלתי צוות פיתוח לפי KPI's שנקבעו בסנכרון עם מחלקת פיתוח ומחלקת R&D". נוסחה מנצחת
+האם קורות החיים שלכם בני עמוד אחד?`,
     },
     {
-      yes: `that's fine, but just so you know:
-We are told many times and sometimes even scared that invoices longer than one page do not pass. This is not true! How is a person with more than a decade of experience supposed to put everything on one page?? My invoices are 2.5 pages long and they pass every filter. All you have to do is make the front page enticing enough for the recruiter to keep reading everything. In addition, there is a limit to how much you can shorten. There are things that must be written in the work experience. There must be meat in every section. It's not bad if the contract is more than one page. Are there any irrelevant things in your resume?
+      yes: `זה בסדר, אבל רק שתדעו:
+אומרים לנו הרבה פעמים ולפעמים אפילו מפחידים אותנו שקו"ח בני יותר מעמוד אחד לא עוברים. 
+זה לא נכון! איך בן אדם עם יותר מעשור נסיון אמור להכניס את הכל בעמוד אחד?? הקו"ח שלי הם בני 2.5 עמודים והם עוברים כל סינון. 
+כל מה שאתם צריכים לעשות זה להפוך את העמוד הראשון למפתה מספיק כדי שהמגייס ימשיך לקרוא הכל. 
+בנוסף, יש גבול לכמה אפשר לקצר. יש דברים שחובה לכתוב בנסיון התעסוקתי. חובה שיהיה בשר בכל סעיף. לא נורא אם הקו"ח יהיו יותר מעמוד אחד. 
+האם הכנסתם דברים לא רלווונטיים לקורות החיים שלכם?
 `,
-      no: `Very good. There must be "meat" in the description of every job you worked.
-There is no problem if the resume is even 2 pages long, the main thing is that the first page is enticing enough for the recruiter to continue reading until the end.
-Are there any irrelevant things in your resume?`,
+      no: `טוב מאד. חייב שיהיה בשר  בכל תיאור של הנסיון התעסוקתי שלכם.
+אין בעיה שקורות החיים יהיו באורך 2 עמודים אפילו, העיקר שהעמוד הראשון יהיה מפתה מספיק כדי שהמגייס ימשיך לקרוא עד הסוף.
+האם הכנסתם דברים לא רלווונטיים לקורות החיים שלכם?`,
     },
     {
-      yes: `Very good. There must be "meat" in the description of every job you worked.
-There is no problem if the resume is even 2 pages long, the main thing is that the first page is enticing enough for the recruiter to continue reading until the end.
-Are there any irrelevant things in your resume?`,
-      no: `Great!
-It doesn't matter if you have a year or a decade of experience, there are things that are not required to be included in the contract. If you are looking for a development position, you will not write that you applied for two months after the army. If you are looking for a position in the restaurant industry, maybe you should include it. If you have years of experience and more than a decade ago you worked in a place that seems irrelevant to you, you can write "Between the years X-X I worked in place Y, I will specify according to the interviewer's request". Next question: Do your languages ​​and skills get an honorable place?)
+      yes: `זה לא משנה אם יש לכם שנה או עשור של נסיון, 
+      יש דברים שלא חובה להכניס לקו"ח. אם אתם מחפשים משרת פיתוח, 
+      לא תכתבו שמילצרתם חודשיים אחרי הצבא. 
+      אם אתם מחפשים משרה בתחום המסעדנות, אולי דווקא כן תכניסו את זה. 
+      אם יש לכם שנים של נסיון ולפני 
+      יותר מעשור עבדתם במקום שנראה לכם לא רלוונטי, אתם יכולים לכתוב "בין השנים X-X עבדתי במקום Y, אפרט לפי דרישת המראיין".
+האם הבלטתם את ההישגים האישיים שלכם?`,
+      no: `טוב מאד!
+כדי להיות רלוונטים - נכניס רק דברים רלוונטיים.
+האם הבלטתם את ההישגים האישיים שלכם?)
 `,
     },
     {
